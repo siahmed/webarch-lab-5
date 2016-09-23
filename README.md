@@ -3,7 +3,7 @@ Using the terminal to browse the web
 
 ## In this lab you will accomplish the following
  - Use the terminal to browse the web
- - Explore different status code
+ - Explore different status codes
 
 ## First install curl in your virtual machine
  - Open the terminal
@@ -42,6 +42,7 @@ Using the terminal to browse the web
     - What is the return code for the path /aboutus.html?
     - What is the return code for the path /contactus.html?
         - If the path /contactus.html for the given domain was entered into the browser what would happen? Write down the curl command that would simulate the HTTP request the browser would execute.
+    - What is the return code for /main.html?
+    - What is the return code for /blog?
  - What is the return code for http://www.google.com/teapot?
- - What is the curl command to do a google search for the term "webarch"? Hint: go to [Google](https://google.com) do a search and see what happens on the address bar
 
