@@ -1,0 +1,14 @@
+1. The return code for the path /index.html is 200 OK.
+
+2. The return code for the path /aboutus.html is 301 Moved Permanently.
+
+3. The return code for the path /contactus.html is 302 Found.
+
+4. Entering http://www.info253.p2ptrainer.com/contactus.html into the browser redirects to http://www.info253.p2ptrainer.com/index.html, 
+and the curl command for this would be curl -v "http://www.info253.p2ptrainer.com/index.html".
+
+5. The return code for the path /main.html is 404 Not Found.
+
+6. The return code for /blog is 500 Internal Server Error.
+
+7. The return code for http://www.google.com/teapot is 418 I'm a Teapot.
